@@ -74,3 +74,13 @@ body {
         margin-bottom: 0;
     }
 }
+
+.list-group-item-noactive {
+    background-color: #565656 !important;
+    border-color: #565656 !important;
+    color: white !important;
+}
+
+.active {
+    background-color: #ee0e0e !important;
+}
